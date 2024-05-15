@@ -1,0 +1,5 @@
+*.pyc
+*.gz
+tegaki_dataset
+janken_dataset
+mizumashi_images
